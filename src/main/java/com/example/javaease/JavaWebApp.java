@@ -1,13 +1,13 @@
-package com.example.javaEase;
+package com.example.javaease;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DeploymentofWarFileApplication {
+public class JavaWebApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DeploymentofWarFileApplication.class, args);
+		SpringApplication.run(JavaWebApp.class, args);
 	}
 
 }
